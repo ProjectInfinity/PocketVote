@@ -63,8 +63,8 @@ understand it. It supports most languages available, so don’t feel required to
 write your POST in one specific language.
 
 In this example I will be using
-[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) as an example.
-You can install it by typing
+[node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken). You can install
+it by typing
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 npm install jsonwebtoken
