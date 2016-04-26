@@ -11,25 +11,47 @@ How it works, the easy version.
 **I am a server owner:**
 
 1.  Register at [PocketVote.io/register](https://pocketvote.io/register).
-2.  Add a server at [PocketVote.io/dashboard/servers/create](https://pocketvote.io/dashboard/servers/create).
-3.  Go to [PocketVote.io/dashboard/servers](https://pocketvote.io/dashboard/servers).
-4.  Click *Show secret* and copy your secret.
-5.  Go to one of the [supported sites](#supported-sites)
-6.  When prompted for your secret, provide the secret you got at PocketVote.io.
-7.  Download one of the official plugins at [PocketVote.io](https://pocketvote.io/#services).
 
-Please ensure that you **only** give your secret to sites you trust. If you
-for some reason need to reset your secret you can do so in the same place
-that you can view your secret.
+2.  Add a server at
+    [PocketVote.io/dashboard/servers/create](https://pocketvote.io/dashboard/servers/create).
+
+3.  Go to
+    [PocketVote.io/dashboard/servers](https://pocketvote.io/dashboard/servers).
+
+4.  Click *Show Secrets* and copy your secret.
+
+5.  Go to one of the [supported sites](#supported-sites)
+
+6.  When prompted for your secret, provide the secret you got at PocketVote.io.
+
+7.  Download one of the official plugins at
+    [PocketVote.io](https://pocketvote.io/#services).
+
+8.  Use the identity generated at
+    [PocketVote.io/dashboard/servers](https://pocketvote.io/dashboard/servers)
+    and follow the plugin instructions on how to utilize the identity.
+
+Please ensure that you **only** give your secret to sites you trust. If you for
+some reason need to reset your secret you can do so in the same place that you
+can view your secret.
 
 **I am a server list operator:**
 
-1.  Register at [PocketVote.io/register](https://pocketvote.io/register) and select “Server List Site” under *I have a*.
-2.  Add a site at [PocketVote.io/dashboard/sites/create](https://pocketvote.io/dashboard/sites/create).
-3.  Go to [PocketVote.io/dashboard/sites](https://pocketvote.io/dashboard/sites).
-4.  Click *Show secrets*.
+1.  Register at [PocketVote.io/register](https://pocketvote.io/register) and
+    select “Server List Site” under *I have a*.
+
+2.  Add a site at
+    [PocketVote.io/dashboard/sites/create](https://pocketvote.io/dashboard/sites/create).
+
+3.  Go to
+    [PocketVote.io/dashboard/sites](https://pocketvote.io/dashboard/sites).
+
+4.  Click *Show Secrets*.
+
 5.  Take note of the [JWT](http://jwt.io) secret and \_identity header.
-5.  Look at [How it works, the developer version.](#how-it-works-the-developer-version)
+
+6.  Look at [How it works, the developer
+    version.](#how-it-works-the-developer-version)
 
 How it works, the developer version.
 ====================================
