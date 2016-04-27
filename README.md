@@ -1,6 +1,8 @@
 PocketVote
 ==========
 
+[![Join the chat at https://gitter.im/ProjectInfinity/PocketVote](https://badges.gitter.im/ProjectInfinity/PocketVote.svg)](https://gitter.im/ProjectInfinity/PocketVote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PocketVote is a middleman service for both Minecraft Server Lists and Minecraft
 Server Owners. It aims to drastically better how voting is done on MCPE. Gone is
 the days of old.
