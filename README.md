@@ -88,6 +88,9 @@ request. The method also has to be **POST**.
 In order to identify you, you’ve been given a UUID by PocketVote.io, please add
 this to your HTTP headers with the key **Identity**
 
+Do note that if your JWT library does not automatically insert a timestamp (iat)
+then you **must** do this yourself.
+
 If you see “success”, you’re all golden.
 
 Supported Sites
