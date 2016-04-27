@@ -48,7 +48,7 @@ can view your secret.
 
 4.  Click *Show Secrets*.
 
-5.  Take note of the [JWT](http://jwt.io) secret and \_identity header.
+5.  Take note of the [JWT](http://jwt.io) secret and Identity header.
 
 6.  Look at [How it works, the developer
     version.](#how-it-works-the-developer-version)
@@ -86,7 +86,7 @@ address is **https://api.pocketvote.io/vote** failure to do so will reject your
 request. The method also has to be **POST**.
 
 In order to identify you, you’ve been given a UUID by PocketVote.io, please add
-this to your HTTP headers with the key **\_identity**
+this to your HTTP headers with the key **Identity**
 
 If you see “success”, you’re all golden.
 
