@@ -58,7 +58,7 @@ can view your secret.
 How it works, the developer version.
 ====================================
 
-This part is at the moment for server list sites only.
+**Server list operators:**
 
 Make yourself familiar with [JWT.io](https://jwt.io/) as you will need to
 understand it. It supports most languages available, so don’t feel required to
@@ -94,6 +94,13 @@ Do note that if your JWT library does not automatically insert a timestamp (iat)
 then you **must** do this yourself.
 
 If you see “success”, you’re all golden.
+
+ 
+
+**Plugin developers:**
+
+To run your code when a vote is registered simply listen to the **VoteEvent**.
+You can get the IP, player name or site name through the event object.
 
 Supported Sites
 ===============
