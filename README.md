@@ -108,3 +108,7 @@ Supported Sites
 If you own a server listing that supports PocketVote, open a [Github
 Issue](https://github.com/ProjectInfinity/PocketVote/issues/new) and we’ll get
 you added to the list.
+
+ 
+
+-   [Minecraftlist.org](https://minecraftlist.org/)
