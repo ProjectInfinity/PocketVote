@@ -113,3 +113,5 @@ Issue](https://github.com/ProjectInfinity/PocketVote/issues/new) and we’ll get
 you added to the list.
 
 -   [Minecraftlist.org](https://minecraftlist.org/)
+
+-   [minecraftpocket-servers.com](http://minecraftpocket-servers.com)
