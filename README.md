@@ -1,8 +1,7 @@
 PocketVote
 ==========
 
-[![Join the chat at
-https://gitter.im/ProjectInfinity/PocketVote](https://badges.gitter.im/ProjectInfinity/PocketVote.svg)](https://gitter.im/ProjectInfinity/PocketVote?utm\_source=badge&utm\_medium=badge&utm\_campaign=pr-badge&utm\_content=badge)
+<https://gitter.im/ProjectInfinity/PocketVote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge>
 
  
 
@@ -35,6 +34,9 @@ How it works, the easy version.
 8.  Use the identity generated at
     [PocketVote.io/dashboard/servers](https://pocketvote.io/dashboard/servers)
     and follow the plugin instructions on how to utilize the identity.
+
+[Instructions for PocketMine available
+here](https://github.com/ProjectInfinity/PocketVote/blob/master/POCKETMINE.md)*.*
 
 Please ensure that you **only** give your secret to sites you trust. If you for
 some reason need to reset your secret you can do so in the same place that you
