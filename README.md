@@ -115,6 +115,6 @@ you added to the list.
 
 -   [Minecraftlist.org](https://minecraftlist.org/)
 
--   [minecraftpocket-servers.com](http://minecraftpocket-servers.comttp://minecraftpocket-servers.com)
+-   [minecraftpocket-servers.com](http://minecraftpocket-servers.com)
 
 -   [Minecraft-PE-Servers.com](https://minecraft-pe-servers.com)
