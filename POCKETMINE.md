@@ -7,10 +7,14 @@ incorrect, please open an issue.
 Commands
 ========
 
-| Command   | Permission      | Description                                                 |
-|-----------|-----------------|-------------------------------------------------------------|
-| /vote     | pocketvote.vote | Shows the MCPE.guru voting link associated with the server. |
-| /vote top | pocketvote.vote | Shows the top voters the past month.                        |
+| Command                         | Permission       | Description                                                                                                                                                                                                                                                                                 |
+|---------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /vote                           | pocketvote.vote  | Shows the MCPE.guru voting link associated with the server.                                                                                                                                                                                                                                 |
+| /vote top                       | pocketvote.vote  | Shows the top voters the past month.                                                                                                                                                                                                                                                        |
+| /pocketvote identity [identity] | pocketvote.admin | This sets your plugin’s identity to the one you provided. Get your server’s identity from the server dashboard at pocketvote.io.                                                                                                                                                            |
+| /pocketvote secret [secret]     | pocketvote.admin | This sets your plugin’s secret to the one you provided. Get your server’s secret from the server dashboard at pocketvote.io.                                                                                                                                                                |
+| /pocketvote cmd list            | pocketvote.admin | Lists the commands that will run when a player votes.                                                                                                                                                                                                                                       |
+| /pocketvote cmd add [command]   | pocketvote.admin | Adds a command that is ran when a player votes. The following variables can be used in the command and will be replaced by the correct data: **%player**, **%ip** and **%site**. *Note that this command runs immediately as a player votes, regardless of whether they are online or not.* |
 
 Configuration
 =============
