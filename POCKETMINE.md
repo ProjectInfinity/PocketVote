@@ -1,7 +1,8 @@
 PocketMine Plugin Documentation
 ===============================
 
- 
+This file is continuously updated. If you feel something is missing or
+incorrect, please open an issue.
 
 Commands
 ========
