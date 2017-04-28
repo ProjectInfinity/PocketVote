@@ -3,7 +3,13 @@ PocketMine Plugin Documentation
 
  
 
- 
+Commands
+========
+
+| Command   | Permission      | Description                                                 |
+|-----------|-----------------|-------------------------------------------------------------|
+| /vote     | pocketvote.vote | Shows the MCPE.guru voting link associated with the server. |
+| /vote top | pocketvote.vote | Shows the top voters the past month.                        |
 
 Configuration
 =============
