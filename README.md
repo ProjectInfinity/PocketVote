@@ -10,6 +10,10 @@ PocketVote is a middleman service for both Minecraft Server Lists and Minecraft
 Server Owners. It aims to drastically better how voting is done on MCPE. Gone is
 the days of old.
 
+PocketVote is completely free to use, however any donations to cover the operational costs of PocketVote is gladly accepted.
+
+*You can send Bitcoin (BTC) to the following address to support PocketVote: **3QC8XUfjXQSMg4CKvvQdscMPQts5wxM9su***
+
 How it works, the easy version.
 ===============================
 
