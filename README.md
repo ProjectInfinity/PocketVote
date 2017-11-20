@@ -22,21 +22,18 @@ How it works, the easy version.
 1.  Register at [PocketVote.io/register](https://pocketvote.io/register).
 
 2.  Add a server at
-    [PocketVote.io/dashboard/servers/create](https://pocketvote.io/dashboard/servers/create).
+    [PocketVote.io/servers](https://pocketvote.io/servers/create) by clicking the add server button.
 
-3.  Go to
-    [PocketVote.io/dashboard/servers](https://pocketvote.io/dashboard/servers).
+3.  Click *Show Secrets* and copy your secret.
 
-4.  Click *Show Secrets* and copy your secret.
+4.  Go to one of the [supported sites](#supported-sites)
 
-5.  Go to one of the [supported sites](#supported-sites)
+5.  When prompted for your secret, provide the secret you got at PocketVote.io.
 
-6.  When prompted for your secret, provide the secret you got at PocketVote.io.
-
-7.  Download one of the official plugins at
+6.  Download one of the official plugins at
     [PocketVote.io](https://pocketvote.io/#services).
 
-8.  Use the identity generated at
+7.  Use the identity generated at
     [PocketVote.io/dashboard/servers](https://pocketvote.io/dashboard/servers)
     and follow the plugin instructions on how to utilize the identity.
 
