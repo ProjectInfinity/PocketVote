@@ -46,20 +46,20 @@ can view your secret.
 
 **I am a server list operator:**
 
-1.  Register at [PocketVote.io/register](https://pocketvote.io/register) and
+1. Register at [PocketVote.io/register](https://pocketvote.io/register) and
     select “Server List Site” under *I have a*.
 
-2.  Add a site at
+2. Add a site at
     [PocketVote.io/dashboard/sites/create](https://pocketvote.io/dashboard/sites/create).
 
-3.  Go to
+3. Go to
     [PocketVote.io/dashboard/sites](https://pocketvote.io/dashboard/sites).
 
-4.  Click *Show Secrets*.
+4. Click *Show Secrets*.
 
-5.  Take note of the [JWT](http://jwt.io) secret and Identity header.
+5. Take note of the [JWT](http://jwt.io) secret and Identity header.
 
-6.  Look at [How it works, the developer
+6. Look at [How it works, the developer
     version.](#how-it-works-the-developer-version)
 
 How it works, the developer version.
@@ -116,8 +116,10 @@ If you own a server listing that supports PocketVote, open a [Github
 Issue](https://github.com/ProjectInfinity/PocketVote/issues/new) and we’ll get
 you added to the list.
 
--   [Minecraftlist.org](https://minecraftlist.org/)
+- [Minecraftlist.org](https://minecraftlist.org/)
 
--   [minecraftpocket-servers.com](http://minecraftpocket-servers.com)
+- [minecraftpocket-servers.com](http://minecraftpocket-servers.com)
 
--   [Minecraft-PE-Servers.com](https://minecraft-pe-servers.com)
+- [Minecraft-PE-Servers.com](https://minecraft-pe-servers.com)
+
+- [MinecraftPE-Servers.com](https://minecraftpe-servers.com/)
