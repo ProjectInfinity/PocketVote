@@ -1,8 +1,7 @@
 PocketVote
 ==========
 
-[Talk to developers on
-Gitter!](https://gitter.im/ProjectInfinity/PocketVote?utm\\\_source=badge&utm\\\_medium=badge&utm\\\_campaign=pr-badge&utm\\\_content=badge)
+[Get help or talk to developers on Discord!](https://discord.gg/B4WHSSq)
 
 [Or visit our forum!](https://forum.pocketvote.io/)
 
