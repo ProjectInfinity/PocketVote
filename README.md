@@ -3,8 +3,6 @@ PocketVote
 
 [Get help or talk to developers on Discord!](https://discord.gg/B4WHSSq)
 
-[Or visit our forum!](https://forum.pocketvote.io/)
-
 PocketVote is a middleman service for both Minecraft Server Lists and Minecraft
 Server Owners. It aims to drastically better how voting is done on MCPE. Gone is
 the days of old.
