@@ -120,3 +120,8 @@ you added to the list.
 - [Minecraft-PE-Servers.com](https://minecraft-pe-servers.com)
 
 - [MinecraftPE-Servers.com](https://minecraftpe-servers.com/)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/ProjectInfinity/PocketVote/badge.svg?style=beer-square)](https://beerpay.io/ProjectInfinity/PocketVote)  [![Beerpay](https://beerpay.io/ProjectInfinity/PocketVote/make-wish.svg?style=flat-square)](https://beerpay.io/ProjectInfinity/PocketVote?focus=wish)
